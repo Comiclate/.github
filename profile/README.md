@@ -1,7 +1,7 @@
 <a href="https://github.com/Comiclate">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="comiclate-banner.png">
-    <img src="comiclate-banner.png" alt="Comiclate - A community-driven comic reader" />
+    <source media="(prefers-color-scheme: dark)" srcset="../comiclate-banner.png">
+    <img src="../comiclate-banner.png" alt="Comiclate - A community-driven comic reader" />
   </picture>
 </a>
 
