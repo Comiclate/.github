@@ -10,7 +10,7 @@
 # What is Comiclate?
 > Currently in early development
 
-Comiclate is an open-source, community-driven comic reading platform built to be extensible.
+Comiclate is an open-source, framework for any progressive web apps with content related to comics built to be extensible.
 
 > This project does not host or distribute copyrighted comics. Support for external sources may be added via community extensions. Users are responsible for compliance with copyright laws and website terms of service.
 
